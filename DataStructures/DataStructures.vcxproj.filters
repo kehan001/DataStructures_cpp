@@ -39,6 +39,9 @@
     <ClCompile Include="HeapSort.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Dijkstra_Heap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SequentialList.h">
@@ -57,6 +60,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="HeapSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dijkstra_Heap.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

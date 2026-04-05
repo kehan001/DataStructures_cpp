@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Dijkstra.cpp" />
+    <ClCompile Include="Dijkstra_Heap.cpp" />
     <ClCompile Include="HeapSort.cpp" />
     <ClCompile Include="Prim.cpp" />
     <ClCompile Include="SequentialList.cpp" />
@@ -138,6 +139,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Dijkstra.h" />
+    <ClInclude Include="Dijkstra_Heap.h" />
     <ClInclude Include="HeapSort.h" />
     <ClInclude Include="Prim.h" />
     <ClInclude Include="SequentialList.h" />
