@@ -45,6 +45,9 @@
     <ClCompile Include="TopologicalSort.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="CriticalPath.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SequentialList.h">
@@ -69,6 +72,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="TopologicalSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CriticalPath.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
